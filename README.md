@@ -1,6 +1,6 @@
 # 🌍 Meteorite Map Visualization
 
-A beautiful and interactive **Folium** map that visualizes meteorite locations around the world. Explore meteorite data, filter by class, and gain insights into their properties like mass, condition, and year of discovery. With the **TagFilterButton**, you can easily sort meteorites based on their class.
+A beautiful and interactive **Folium** map that visualizes meteorite locations around the world. 
 
 ---
 ![Image](https://github.com/user-attachments/assets/c27737bd-84b6-462b-8c64-dd5bda7783e8)
