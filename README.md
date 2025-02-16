@@ -12,6 +12,7 @@ A beautiful and interactive **Folium** map that visualizes meteorite locations a
   - **Mass**: The mass in grams
   - **Condition**: The meteorite's condition (e.g., Valid, Relict)
   - **Class**: Meteorite class
+  - **Status**: Meteorite Status (e.g., Fell, Found)
   - **Year**: Year of discovery
   
 ---
