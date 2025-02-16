@@ -1,3 +1,5 @@
+'''
+
 import pandas as pd
 import numpy as np
 import math
@@ -35,3 +37,5 @@ for lat, long in zip(lat, long): # Iterate through both Series simultaneously
 
 results_df = pd.DataFrame({'lat': lat, 'long': long, 'country': countries, 'is_thailand': is_thailand_list})
 result_df.to_csv('results.csv', index=False)
+
+'''
